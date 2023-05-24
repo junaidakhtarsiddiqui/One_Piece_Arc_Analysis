@@ -3,7 +3,3 @@ pandas as pd
 matplotlib.pyplot as plt
 seaborn as sns
 tensorflow as tf
-MinMaxScaler
-keras
-Sequential
-LSTM, Dense
